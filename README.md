@@ -74,18 +74,25 @@ There are 4 FinTech Professionals listed on the front-end web app to choose from
 
 **2. List of Values (LOVs) to pick & hire the desired Professional to get paid in Ether:**
 
-There's a List of Value (LOVs) drop down window feature available to choose the desired professional to hire and pay in Ether:
+There's a List of Value (LOVs) drop down window feature available to choose the desired professional to hire and get paid in Ether:
 
 ![LOVs](https://user-images.githubusercontent.com/86034323/140716741-0aa492be-2814-406d-9750-53d11f2fc243.png)
 
 
-**3. Select Candidate: "Kendall" & Pay Hiring Compensation in Ether:**
+**3. Select Candidate: "Kendall" & Pay Compensation in Ether:**
 
 Select the desired candidate, in this example we chose "Kendall" and paid him in Ether:
 
 ![TRX_1](https://user-images.githubusercontent.com/86034323/140717174-72f61d72-a656-470f-9f75-e69d12ccb2c9.png)
 
 
+**4. Transaction Validation:**
+
+Transaction can be validated by referring the transaction hash available right after processing the payment:
+
+![TRX_1_Validated_ Hash](https://user-images.githubusercontent.com/86034323/140717630-cc1d3839-958e-4c61-b3e2-00a92bdafeb4.png)
+
+**5. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
