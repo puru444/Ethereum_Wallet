@@ -109,12 +109,22 @@ Transaction can be validated by referring the transaction hash available right a
 
 Transaction can be verified on Etherscan (Ethereum's Kovan Testnet) for company's account balance:
 
-![Address_balance_with_transactions_history](https://user-images.githubusercontent.com/86034323/140718915-cadbb0bd-351b-4951-abf1-65633f905311.png)
+![Address_balance_with_transactions_history](https://user-images.githubusercontent.com/86034323/140720060-8d0dd638-7d87-440a-8051-c26ab936103e.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**6. Verify the Receiver's Account Transaction:**
+**6. Verify the Transaction Details:**
+
+Transaction details can be verified on Etherscan (Ethereum's Kovan Testnet) by clicking on transaction hash:
+
+![Transaction_details_etherscan](https://user-images.githubusercontent.com/86034323/140720482-486e4a55-697b-4605-b04c-790c56a40e61.png)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**7. Verify the Receiver's Account Transaction:**
 
 Transaction can be verified on Etherscan (Ethereum's Kovan Testnet) for receiver's account balance:
 
