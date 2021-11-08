@@ -63,7 +63,7 @@ Following functions are defined under FinTech Finder App Functionality:
 **BLOCKCHAIN WEB APPLICATION**
 ------------------------------
 
-**1. Homepage view with FinTech Professionals:** 
+**1. Homepage view with FinTech Professionals' details:** 
 
 There are 4 FinTech Professionals listed on the front-end web app to choose from:
 
@@ -75,7 +75,7 @@ There are 4 FinTech Professionals listed on the front-end web app to choose from
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**2. List of Values (LOVs) to pick & hire the desired Professional to get paid in Ether:**
+**2. List of Values (LOVs) to pick & hire the desired professional to get paid in Ether:**
 
 There's a List of Value (LOVs) drop down window feature available to choose the desired professional to hire and get paid in Ether:
 
@@ -105,9 +105,24 @@ Transaction can be validated by referring the transaction hash available right a
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**5. 
+**5. Verify the Business Account Transaction:**
+
+Transaction can be verified on Etherscan (Ethereum's Kovan Testnet) for company's account balance:
+
+![Address_balance_with_transactions_history](https://user-images.githubusercontent.com/86034323/140718915-cadbb0bd-351b-4951-abf1-65633f905311.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**6. Verify the Receiver's Account Transaction:**
+
+Transaction can be verified on Etherscan (Ethereum's Kovan Testnet) for receiver's account balance:
+
+![Kendall_Balance_with_TRX_History](https://user-images.githubusercontent.com/86034323/140719675-259a3b40-5e9c-4163-82cc-cbe974ece8e6.png)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **CONTRIBUTOR**
 
