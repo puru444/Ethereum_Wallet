@@ -23,7 +23,9 @@ B. FinTech Finder App Functionality
 **1. generate_account:** Purpose: Create a Digital Wallet & Ethereum Account from a mnemonic seed phrase.
  
  **- Define Variables: Mnemonic & Wallet:** Create Wallet with the help of unique combination of mnemonic seed phrase.
+ 
  **- Derive Keys:** Using "derive_account" function to generate Private & Public Keys.
+ 
  **- Convert into Ethereum Account:** 
 
 **- proof_of_work:** This function's purpose: to set the difficulty level for guessing the prev_hash of block.
