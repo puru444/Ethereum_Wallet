@@ -67,9 +67,10 @@ Following functions are defined under FinTech Finder App Functionality:
 
 There are 4 FinTech Professionals listed on the front-end web app to choose from:
 
-![Fintech Finder Hompage1](https://user-images.githubusercontent.com/86034323/140715745-71118a10-c7ec-4109-852a-f24d3bc07c01.png)
-![Fintech Finder Hompage2](https://user-images.githubusercontent.com/86034323/140715782-bb5b332c-dc01-4436-927c-5e279d478ee2.png)
-![Fintech Finder Hompage3](https://user-images.githubusercontent.com/86034323/140715803-26e9adc8-e8a0-47a1-82ea-ee4a4aaa89ed.png)
+![Lane](https://user-images.githubusercontent.com/86034323/140721698-0a59b19a-105e-4b3e-bc76-036219127e37.png)
+![ash](https://user-images.githubusercontent.com/86034323/140721732-9d0baa72-54b1-4597-8095-64c7269df347.png)
+![Jo](https://user-images.githubusercontent.com/86034323/140721760-bec9b68e-06be-4535-9891-a70213b776e6.png)
+![Kendall](https://user-images.githubusercontent.com/86034323/140721773-56ce4aad-2cee-4633-850c-56354a487491.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
