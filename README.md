@@ -70,7 +70,7 @@ There are 4 FinTech Professionals listed on the front-end web app to choose from
 ![Lane](https://user-images.githubusercontent.com/86034323/140721698-0a59b19a-105e-4b3e-bc76-036219127e37.png)
 ![ash](https://user-images.githubusercontent.com/86034323/140721732-9d0baa72-54b1-4597-8095-64c7269df347.png)
 ![Jo](https://user-images.githubusercontent.com/86034323/140721760-bec9b68e-06be-4535-9891-a70213b776e6.png)
-![Kendall](https://user-images.githubusercontent.com/86034323/140721773-56ce4aad-2cee-4633-850c-56354a487491.png)
+![Kendall](https://user-images.githubusercontent.com/86034323/140722093-fb2a4aea-0ba4-444b-91c2-3860fae4a928.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
