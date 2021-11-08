@@ -1,4 +1,4 @@
-# ETHEREUM WALLET APP - FINTECH FINDER
+# ETHEREUM WALLET APP - FINTECH TALENT FINDER
 **For Hiring FinTech Professionals**
 
 **BACKGROUND:** As Fintech Finder’s Lead Developer, I need to build a front-end web application (Streamlit) integrated with Ethereum Blockchain Network in order to enable our customers to instantly pay the FinTech Professionals whom they hire with Ethereum Crypto. 
@@ -14,13 +14,17 @@
 
 **PROJECT DESCRIPTION**
 
-There are 2 main sections created separately for this whole project: 
+There are 2 main sections defined separately for this whole project: 
 A. Wallet Functionality 
 B. FinTech Finder App Functionality
 
-**A. Wallet Functionality:** Following functions are defined under crypto_wallets:
+**A. Wallet Functionality:** Following functions are defined under crypto_wallets (Wallet Functionality):
 
-**- generate_account:** Purpose: To generate a new account 
+**1. generate_account:** Purpose: Create a Digital Wallet & Ethereum Account from a mnemonic seed phrase.
+ 
+ **- Define Variables: Mnemonic & Wallet:** Create Wallet with the help of unique combination of mnemonic seed phrase.
+ **- Derive Keys:** Using "derive_account" function to generate Private & Public Keys.
+ **- Convert into Ethereum Account:** 
 
 **- proof_of_work:** This function's purpose: to set the difficulty level for guessing the prev_hash of block.
 
