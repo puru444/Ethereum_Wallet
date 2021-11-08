@@ -7,7 +7,7 @@
 **CONTENT**
 - Project Description
 - Technologies
-- FinTech Finder App Integrated with Ethereum Blockchain Network
+- Integrated App with Ethereum Blockchain Network
 - Contributor
 - License
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ Following functions are defined under FinTech Finder App Functionality:
 - Ethereum
 - Streamlit
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**FINTECH FINDER APP INTEGRATED WITH ETHEREUM BLOCKCHAIN NETWORK**
+**INTEGRATED APP WITH ETHEREUM BLOCKCHAIN NETWORK**
 ------------------------------
 
 **1. Homepage view with FinTech Professionals' details:** 
