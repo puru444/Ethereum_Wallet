@@ -63,12 +63,27 @@ Following functions are defined under FinTech Finder App Functionality:
 **BLOCKCHAIN WEB APPLICATION**
 ------------------------------
 
+**1. Homepage view with FinTech Professionals:** 
+
 There are 4 FinTech Professionals listed on the front-end web app to choose from:
+
 ![Fintech Finder Hompage1](https://user-images.githubusercontent.com/86034323/140715745-71118a10-c7ec-4109-852a-f24d3bc07c01.png)
 ![Fintech Finder Hompage2](https://user-images.githubusercontent.com/86034323/140715782-bb5b332c-dc01-4436-927c-5e279d478ee2.png)
 ![Fintech Finder Hompage3](https://user-images.githubusercontent.com/86034323/140715803-26e9adc8-e8a0-47a1-82ea-ee4a4aaa89ed.png)
 
 
+**2. List of Values (LOVs) to pick & hire the desired Professional to get paid in Ether:**
+
+There's a List of Value (LOVs) drop down window feature available to choose the desired professional to hire and pay in Ether:
+
+![LOVs](https://user-images.githubusercontent.com/86034323/140716741-0aa492be-2814-406d-9750-53d11f2fc243.png)
+
+
+**3. Select Candidate: "Kendall" & Pay Hiring Compensation in Ether:**
+
+Select the desired candidate, in this example we chose "Kendall" and paid him in Ether:
+
+![TRX_1](https://user-images.githubusercontent.com/86034323/140717174-72f61d72-a656-470f-9f75-e69d12ccb2c9.png)
 
 
 
