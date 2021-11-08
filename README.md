@@ -14,27 +14,42 @@
 
 **PROJECT DESCRIPTION**
 
-There are 2 main sections defined separately for this whole project: 
-A. Wallet Functionality 
-B. FinTech Finder App Functionality
+There are 2 major sections defined for this whole project: 
 
-**A. Wallet Functionality:** Following functions are defined under crypto_wallets (Wallet Functionality):
+**A. Wallet Functionality:** 
 
-**1. generate_account:** Purpose: Create a Digital Wallet & Ethereum Account from a mnemonic seed phrase.
+Following functions are defined under crypto_wallets (Wallet Functionality):
+
+**1. generate_account():** Purpose: Create a Digital Wallet & Ethereum Account from a mnemonic seed phrase.
  
  **- Define Variables: Mnemonic & Wallet:** Create Wallet with the help of unique combination of mnemonic seed phrase.
  
  **- Derive Keys:** Using "derive_account" function to generate Private & Public Keys.
  
- **- Convert into Ethereum Account:** 
+ **- Convert into Ethereum Account:** Using Private Key to convert it into the Ethereum Account.
+ 
+ **2. get_balance(address):** Purpose: Using an Ethereum Account address to access the balance of Ether
 
-**- proof_of_work:** This function's purpose: to set the difficulty level for guessing the prev_hash of block.
+**- fromWei:** Convert Wei value to Ether.
 
-**- add_block:** This function's purpose: to add the block in chain after succesfully performed the Proof of Work.
+**3. send_transaction(account, to, wage):** Purpose: Send an authorized transaction to the Kovan testnet.
 
-**- is_valid:** This function's purpose: to validate the block in chain.
+**- setGasPriceStrategy:** Apply this function to set the gas price strategy.
 
-**- setup():** This function's purpose: to increase the size of chain on addition of each block successfully. 
+**- toWei:** Convert eth amount to Wei.
+
+**- estimateGas:** Calculate estimated gas required for transaction with parameters: ({"to": to, "from": account.address, "value": value})
+
+**- Sign & Send Transaction:** Sign the Raw Transaction & Send it to the receiver. 
+
+
+**B. FinTech Finder App Functionality:**
+
+Following functions are defined under FinTech Finder App Functionality:
+
+**1. candidate_database:** Database of FinTech Finder candidates including: Name, Ethereum Wallet Address, Rating & Ether Rate/Hr.
+
+**2. get_people():** Display the database of Fintech Finders candidate information.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,7 +63,7 @@ B. FinTech Finder App Functionality
 **BLOCKCHAIN WEB APPLICATION**
 ------------------------------
 
-
+****
 
 
 
